@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed65d6f6-a126-47b7-84e4-316b34aeee37" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ed65d6f6-a126-47b7-84e4-316b34aeee37" name="变更" comment="变更">
+      <change afterPath="$PROJECT_DIR$/music-server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-server/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-server/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-server/src/main/java/love/zhangminghui/musicserver/MusicServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music-server/src/test/java/love/zhangminghui/musicserver/MusicServerApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +70,6 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
-    <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
@@ -75,6 +80,7 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8",
     "node.js.detected.package.eslint": "true",
@@ -85,7 +91,7 @@
     "project.structure.last.edited": "项目",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "configurable.group.editor",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "spring.configuration.checksum": "17205e967ed17e91f99cbfea67002c2f",
     "vue.rearranger.settings.migration": "true"
   },
@@ -123,8 +129,16 @@
       <workItem from="1690207106013" duration="730000" />
       <workItem from="1690385348809" duration="1203000" />
       <workItem from="1690469663030" duration="598000" />
-      <workItem from="1690561070527" duration="1301000" />
+      <workItem from="1690561070527" duration="1626000" />
     </task>
+    <task id="LOCAL-00001" summary="变更">
+      <created>1690562504518</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690562504518</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,9 +156,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$/music-server" />
-    </ignored-roots>
+    <MESSAGE value="变更" />
+    <option name="LAST_COMMIT_MESSAGE" value="变更" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
